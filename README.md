@@ -20,13 +20,13 @@ In this Codesandbox, you have a complete environment with all you need to run yo
    (all the info is based on the public PokeAPI
    which you can see with more detail here: https://pokeapi.co/)
 
-4. Render on your component the **name** of the pokemon using a _<h1>_ HTML tag
+4. Render on your component the **name** of the pokemon using a _&lt;h1&gt;_ HTML tag
 
-5. Render the images (**front_default** and **front_shiny**) of the pokemon using the _<img src= ...>_
+5. Render the images (**front_default** and **front_shiny**) of the pokemon using the _&lt;img src= ...&gt;_
    HTML tag to show them (_sprites_ property from the mock object contains them)
 
 6. Create a link to the Pokemon's video so when you click it, redirects you to the video
-   on YouTube using the anchor _<a src=...>_ HTML tag
+   on YouTube using the anchor _&lt;a src=...&gt;_ HTML tag
 
 ## Submitting your work
 
